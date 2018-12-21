@@ -1,0 +1,8 @@
+app_code: myapp1
+app_name: 测试武器
+author: 林松涛
+!!python/unicode 'date': '2018-12-21 11:02:41'
+introduction: 提供测试
+is_use_celery: true
+!!python/unicode 'language': python
+version: 1.0.0
